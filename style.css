@@ -1,0 +1,15 @@
+
+.collegephoto
+{
+  background-image: url("college photo.png");
+ background-repeat: no-repeat;
+ text-align: center; 
+ height: 800px;
+width: 100%;
+
+}
+.division{
+  text-align: bottom;
+  
+
+}
